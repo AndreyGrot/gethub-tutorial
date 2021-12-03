@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<title>my Webpage</title>	
+	</head>
+	<body>
+		<table>
+			<head>			
+			<tr>				
+				<th>Name</th>				
+                <th>Color</th>				
+			</head>			
+			</tr>			
+		<tr>			
+			<td>Rob</td>			
+			<td>Green</td>		
+		</tr>			
+		<tr>			
+			<td>Tania</td>			
+			<td>Blue</td>			
+		</tr>
+		<tr>			
+			<td>Misha</td>			
+			<td>Red</td>			
+		</tr>		
+		<tr>			
+			<td>Dasha</td>			
+			<td>Orange</td>			
+		</tr>				
+		</table>
+	</body>	
+</html>
